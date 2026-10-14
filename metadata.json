@@ -1,0 +1,6 @@
+{
+  "name": "PyFlow Studio - Python Automation & Data Tools",
+  "description": "High-Performance Python Automation & Data Tools for international business owners and developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
